@@ -14,8 +14,8 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Akasha System', 
-      titleTemplate: '%s - Akasha System',
+      title: 'Akasha Terminal', 
+      titleTemplate: '%s - Akasha Terminal',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
